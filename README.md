@@ -26,9 +26,11 @@ Como punto final, se establece un punto de decisión al inicio y fin de operaci�
 -----------------------------
 
 OBSERVACIONES DURANTE DESARROLLO DEL PROGRAMA:
-Se presentaron complicaciones en lo que fue la captura, registro y muestra de nombre y apellidos, ya que inicialmente se tenia contemplado hacer uso de listado de nombre de pila, apellido paterno y apellido materno por separado dentro de tabla de resultados, clasificación solicitada en instrucciones que ya se encontraba cumplida con el requisito de ingresar un mínimo de tres nombres para continuar el proceso de captura de datos.
+Se presentaron complicaciones en lo que fue la captura, registro y muestra de nombre y apellidos, ya que inicialmente se tenia contemplado hacer uso de listado de nombre de pila, apellido paterno y apellido materno por separado dentro de tabla de resultados. Sin embarogo, se puedo cumplir con la instrucción solicitada por el documento donde se plantea el proyecto mensual al necesitar el ingreso de un mínimo de tres nombres para continuar la captura de datos.
 
-Tambien se tomo en cuenta para el desarrollo del programa la aplicación de principios de programación defensiva para el manejo de errores y la entrada de datos falso o incorrectos por el usuario, probandose cada segmento de la calculadora individualmente hasta que el registro de nombre, edad, peso y estatura se ejecutaron correctamente. De igual forma se comprobó la ejecución del programa en su totalidad una vez llegado al punto de tabla de resultados, probando colocación dentro de tabla de IMC por rango de edad y resultado de operacion peso/estatura/estatura.
+Tambien se tomo en cuenta para el desarrollo del programa la aplicación de principios de programación defensiva para el manejo de errores y la entrada de datos falso o incorrectos por el usuario, probandose las condiciones de registro de entrada de datos y avisos de dato incorrecto contemplados en cada segmento de la calculadora, desarrollandose a modo de prueba y error hasta que el registro de nombre, edad, peso, estatura, operación aritmetica y clasificación del IMC se ejecutaron correctamente. 
+
+De igual forma se comprobó la ejecución del programa en su totalidad una vez llegado al punto de tabla de resultados, probando colocación dentro de tabla de IMC por rango de edad y resultado de operacion peso/estatura/estatura, como el vaciado de datos existentes y la presentación de la opción de registrar nuevos datos de persona distinta o cerrar el programa.
 
 -----------------------------
 
