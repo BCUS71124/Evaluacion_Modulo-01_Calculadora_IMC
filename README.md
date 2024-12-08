@@ -3,7 +3,7 @@
 DESARROLLO DEL PROGRAMA:
 Evaluación de conocimientos adquiridos y técnica en el manejo de código de Python para generar una Calculadora de IMC funcional capaz de capturar, almacenar y entregar datos diversos en forma de texto y números.
 
-Para crear este programa se tuvo en consideración la necesidad de conocer y representar variables de nombre, apellido paterno, apellido materno, peso, edad, estatura y valor de IMC.
+Para crear este programa se tuvo en consideración la necesidad de conocer y representar nombre, apellido paterno, apellido materno, peso, edad, estatura y valor de IMC.
 
 En atención a ello, se configuró un input donde el usuario puede registrar nombre y apellidos en una misma linea de texto. Una vez recabada esta oración, se procede a dividir los nombres ingresados mediante split para luego generar lista de nombres individuales, los cuales son formateados a modo de título, utilizados para calificar el ingreso de solo letras en cada palabra y que se cuenta con al menos tres palabras distintas (nombre y apellidos) con extensión de tres o más caracteres dentro de bucle for. 
 
